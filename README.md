@@ -1,0 +1,3 @@
+This is a simple project ..
+Please change the grid and let it be a valid sudoku puzzle for the code to work properly 
+Enjoy and happy coding:).....
